@@ -90,9 +90,9 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+Brianne Bender
 
-dcase@nwmissouri.edu
+s529231@nwmissouri.edu
 
 ## New Section 
 
