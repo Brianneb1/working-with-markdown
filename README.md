@@ -94,6 +94,15 @@ Brianne Bender
 
 s529231@nwmissouri.edu
 
-## New Section 
+### This is a New Section
+Here is a Markdown cheatsheet!
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet")
 
+In Markdown we can:
+- link urls
+- insert pictures
+- make ordered and unordered lists
+- make headings
 
+This is a picture.
+![New Picture](https://upload.wikimedia.org/wikipedia/commons/d/d6/1Mcolors.png "Random Picture")
