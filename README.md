@@ -1,12 +1,25 @@
 # working-with-markdown
 A short README.md that explains how to get started with Markdown, a super-simple markup language for web pages
 
+##  About
+This repository will be used for information about Markdown and GitHub pages.
+
 ## Links
 
 - [Webpage](https://profcase.github.io/working-with-markdown/ "Working With Markdown Webpage")
 - [Source](https://github.com/profcase/working-with-markdown "Working With Markdown Source")
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet")
 
-## Getting Started
+## Recommended Tools
+You will need GitHub and knowledge of Markdown to publish content.
+
+In Markdown we can:
+- link urls
+- insert pictures
+- make ordered and unordered lists
+- make headings
+
+How to publish a README.md with GitHub pages:
 
 1. Login to GitHub.
 1. Click + to add a new repo. 
@@ -15,6 +28,22 @@ A short README.md that explains how to get started with Markdown, a super-simple
 1. Allow GitHub to draft a README.md. 
 1. Choose a license if desired. 
 
+Visit this link for more assistance:
+[GitHub Info](https://help.github.com/articles/create-a-repo/ "Creating a repo")
+
+## Recommended Resources
+View these links to learn more about the process of web development.
+- [Web Dev 101](https://www.theodinproject.com/courses/web-development-101 "Web Dev 101")
+- [Basics](https://studywebdevelopment.com/web-development-basics-for-beginners.html "Basics for Beginners")
+- [Guide](https://medium.com/@sebastienphl/a-practical-guide-to-learning-the-basics-of-web-programming-79961f3f3baa "A Practical Guide")
+
+## Contributors
+Brianne Bender
+s529231@nwmissouri.edu
+Sophomore B.S. in Computer Science
+![Corgi](https://hdfreewallpaper.net/wp-content/uploads/2015/12/Cute-Pembroke-Welsh-Corgi-short-free-hd-wallappers.jpg "Good boy")
+
+Below is other helpful content provided by Professor Case.
 ## GitHub Pages
 
 While viewing your new repository in GitHub, click the repo Settings icon (looks like a gear). 
@@ -88,21 +117,3 @@ If editing online in GitHub, scroll up to the top of the edit box, and click "Pr
 
 Learn more by checking out [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown") and other resources. 
 
-##  About
-
-Brianne Bender
-
-s529231@nwmissouri.edu
-
-### This is a New Section
-Here is a Markdown cheatsheet!
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet")
-
-In Markdown we can:
-- link urls
-- insert pictures
-- make ordered and unordered lists
-- make headings
-
-This is a picture.
-![New Picture](https://upload.wikimedia.org/wikipedia/commons/d/d6/1Mcolors.png "Random Picture")
