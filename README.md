@@ -14,10 +14,10 @@ This repository will be used for information about Markdown and GitHub pages.
 You will need GitHub and knowledge of Markdown to publish content.
 
 In Markdown we can:
-- link urls
-- insert pictures
-- make ordered and unordered lists
-- make headings
+- Link urls
+- Insert pictures
+- Make ordered and unordered lists
+- Make headings
 
 How to publish a README.md with GitHub pages:
 
